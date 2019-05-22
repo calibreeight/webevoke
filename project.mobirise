@@ -52,7 +52,7 @@
     "robotsSwitcher": "on",
     "siteUrl": "https://webevoke.co",
     "sitemapSwitcherAuto": "on",
-    "favicon": "@PROJECT_PATH@/assets/images/websitely-128x107.png",
+    "favicon": "@PROJECT_PATH@/assets/images/standard-logo-128x107.png",
     "noImageResize": "",
     "sitemapSwitcher": "on"
   },
